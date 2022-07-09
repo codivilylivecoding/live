@@ -6,9 +6,10 @@ typedef struct product
     char *name;
     int price;
 
-    /* field members for singly linked list */
+    /* field member for singly linked list */
     struct product *_next;
-
+    
+    /* field members for global doubly linked list */
     struct product *_g_next;
     struct product *_g_prev;
 } product_t;
