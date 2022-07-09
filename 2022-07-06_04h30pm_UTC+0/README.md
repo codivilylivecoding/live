@@ -1,1 +1,1 @@
-#C - Hash tables (product catalgoue)
+#C - Hash tables (product catalogue)
